@@ -1,7 +1,7 @@
 ## Hi, this is Maya ✨
 
   💗 I enjoy creating fun mini-coding projects<br/>
-  🌙 I'm currently diving into cybersecurity. let's connect!<br/>
+  🌙 I'm currently diving into cybersecurity basics. let's connect!<br/>
 
 
 # 💻 Tech Stack:
