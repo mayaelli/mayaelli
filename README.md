@@ -2,10 +2,7 @@
 
   🧠 Information Technology Major<br/>
   💗 I enjoy creating fun mini-coding projects<br/>
-  🌙 I am a cybersecurity enthusiast! let's connect!<br/>
-
-  # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+  🌙 I'm currently diving into cybersecurity. let's connect!<br/>
 
 
 # 💻 Tech Stack:
