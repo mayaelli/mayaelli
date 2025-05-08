@@ -1,6 +1,5 @@
 ## Hi, this is Maya ✨
 
-  🧠 Information Technology Major<br/>
   💗 I enjoy creating fun mini-coding projects<br/>
   🌙 I'm currently diving into cybersecurity. let's connect!<br/>
 
