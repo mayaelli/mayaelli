@@ -1,7 +1,7 @@
 ## Hi, I'm Maya!
 
 *  I have a strong interest in developing data-driven applications and interactive dashboards. <br/>
-*  I am currently expanding my knowledge in **cybersecurity fundamentals**. <br/>
+*  I am currently expanding my knowledge in **software development**. <br/>
 *  Open to collaboration, knowledge-sharing, and connecting with professionals in tech and data. 
 
 #  Tech Stack:
