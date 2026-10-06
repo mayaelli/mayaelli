@@ -12,8 +12,6 @@
 *Leveraging cutting-edge AI coding workflows (Claude Code, Google Gemini, Kiro AI, Grok API) to accelerate development, design system architecture, and optimize deployment pipelines.*
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mayaelli&theme=rose&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mayaelli&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayaelli&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
