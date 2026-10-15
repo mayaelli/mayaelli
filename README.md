@@ -12,4 +12,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayaelli&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+```
+"Build it right. Secure it properly. Keep learning."
+```
